@@ -37,7 +37,8 @@
 
 ### extras
 - DELL D6000 With USB 3.0 https://amzn.to/3qFGREX
-- Surge Protected Extension Lead  3m https://amzn.to/3gqvyfb
+- ~~Surge Protected Extension Lead 3m https://amzn.to/3gqvyfb~~
+- 6-way socket with 6 switches 3m https://www.ikea.com/ie/en/p/koppla-6-way-socket-with-6-switches-earthed-white-10392663/
 - Cable Ties Self Adhesive https://amzn.to/39YTSUx
 - Cable Holders https://amzn.to/36UwtkT
 - Analogue Timer Tomato Red  https://amzn.to/3qDYq8B
