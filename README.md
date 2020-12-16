@@ -1,5 +1,7 @@
 # Workspace
 
+![desk](./images/desk.png)
+
 ### Monitor
 - Dell U3419W https://amzn.to/2VQjJWn
 
