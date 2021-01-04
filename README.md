@@ -20,7 +20,7 @@ Durante esse quase um ano trabalhando exclusivamente de casa fui customizando me
 ```
 - Tampo https://amzn.to/36SOUXk
 ```diff
-- Tamanho  # gostaria de ter uma mesa com 160 cm de largura, mas eu não tenho espaço sufiente
+- Tamanho  # gostaria de ter uma mesa com 160cm de largura, mas eu não tenho espaço sufiente
 ```
 
 ### Cadeira
@@ -53,7 +53,7 @@ Durante esse quase um ano trabalhando exclusivamente de casa fui customizando me
 ```diff
 + Confortável
 - Depende do software pra configurações
-? Se você se incomoda dom barulho os switches GX Blue Clicky podem incomodar bastante
+# Se você se incomoda com barulho os switches GX Blue Clicky podem incomodar bastante
 ```
 ##### Mouse
 - Logtech G403 Hero https://amzn.to/3m0t0Wi
@@ -70,7 +70,8 @@ Durante esse quase um ano trabalhando exclusivamente de casa fui customizando me
 
 ### Audio
 ```diff
-# Pretendo escrever um review sobre esses no futuro, mas posso adiantar que foi um excelente investimento.
+# Pretendo escrever um review sobre esses no futuro, mas posso adiantar 
+# que foi um excelente investimento.
 ```
 - Schiit Modi3 https://www.schiit.com/products/modi-1
 - Schiit Vali2 https://www.schiit.com/products/vali-3
