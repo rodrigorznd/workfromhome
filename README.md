@@ -84,6 +84,12 @@ Durante esse quase um ano trabalhando exclusivamente de casa fui customizando me
 ### Decoracão
 ##### Iluminação
 - Philips Hue Play White and Colour Ambiance Smart Light Bar https://amzn.to/3m1npPA
+##### Quadros
+![prints](./images/prints.png)
+- Rocket print https://www.etsy.com/ie/listing/868867703/rocket-print-space-wall-art-space
+- Space shuttle print https://www.etsy.com/ie/listing/861204842/space-shuttle-print-planet-solar-system
+- Solar system print https://www.etsy.com/ie/listing/854961426/solar-system-print-space-wall-art-space
+- Handmade Photo Frame https://www.etsy.com/ie/listing/871348407/handmade-photo-frames-casual-picture
 
 ### extras
 - DELL D6000 With USB 3.0 https://amzn.to/3qFGREX
