@@ -15,7 +15,7 @@ Durante esse quase um ano trabalhando exclusivamente de casa fui customizando me
 ```diff
 + Range de altura
 + Largura ajustavel
-+ Porta serial para hacker 
++ Porta serial para hacker -> https://github.com/rodrigorznd/LoctekMotion_ArduinoIoTCloud
 - Não tem sistema de anti-colisão
 ```
 - Tampo https://amzn.to/36SOUXk
