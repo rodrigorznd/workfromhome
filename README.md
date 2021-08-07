@@ -87,7 +87,12 @@ Durante esse quase um ano trabalhando exclusivamente de casa fui customizando me
 + Libera espaço na mesa
 ```
 
+### Organização
+![tool-trolley](./images/tool-trolley.JPG)
+- HBM Mobile Tool Trolley https://bit.ly/3fFxUHW
+
 ### Decoracão
+
 ##### Iluminação
 - Philips Hue Play White and Colour Ambiance Smart Light Bar https://amzn.to/3m1npPA
 ##### Quadros
