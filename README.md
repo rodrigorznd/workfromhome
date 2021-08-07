@@ -57,6 +57,11 @@ Durante esse quase um ano trabalhando exclusivamente de casa fui customizando me
 ```
 ##### Mouse
 - Logtech G403 Hero https://amzn.to/3m0t0Wi
+
+##### Webcam
+
+- Logitech C920 HD Pro https://www.amazon.co.uk/gp/product/B006A2Q81M
+
 ##### Impressora
 - HP ENVY Pro 6430 All-in-One Printer https://amzn.to/2VUgDk8
 
