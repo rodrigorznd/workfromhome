@@ -32,8 +32,9 @@ Durante esse quase um ano trabalhando exclusivamente de casa fui customizando me
 + Sem mais dores na lombar 
 ```
 
-### Monitor
-- Dell U3419W https://amzn.to/2VQjJWn
+### Monitors
+- Dell U3419W https://amzn.to/2VQjJWn  # Horizontal
+- Dell U2421E https://amzn.to/3u553TO  # Vertical
 
 ```diff
 + Porta USB-C
@@ -59,7 +60,6 @@ Durante esse quase um ano trabalhando exclusivamente de casa fui customizando me
 - Logitech MX Vertical Ergonomic https://amzn.to/3wscZl9
 
 ##### Webcam
-
 - Logitech C920 HD Pro https://www.amazon.co.uk/gp/product/B006A2Q81M
 
 ##### Impressora
