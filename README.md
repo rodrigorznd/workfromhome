@@ -40,11 +40,11 @@ Durante esse quase um ano trabalhando exclusivamente de casa fui customizando me
 + Tela confortável
 ```
 ##### Suporte
-- Monitor Arm Mount with Laptop Tray https://amzn.to/33WClbH
+- Dual Monitor Stand for 15-35 inch Ultrawide Screens https://amzn.to/3wjqEdQ
 ```diff
-+ Ocupa pouco espaço na mesa 
-- Ajuste de altura não é simples
-- A bandeja do notebook é grande para um monitor de 13
++ Ocupa pouco espaço na mesa
++ Pistão a gás
++ Portas USB
 ```
 
 ### Periféricos
