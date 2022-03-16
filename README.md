@@ -56,7 +56,7 @@ Durante esse quase um ano trabalhando exclusivamente de casa fui customizando me
 # Se você se incomoda com barulho os switches GX Blue Clicky podem incomodar bastante
 ```
 ##### Mouse
-- Logtech G403 Hero https://amzn.to/3m0t0Wi
+- Logitech MX Vertical Ergonomic https://amzn.to/3wscZl9
 
 ##### Webcam
 
