@@ -1,6 +1,6 @@
 # Ambiente de Trabalho
 
-![desk](./images/desk.png)
+![desk](./images/desk.jpeg)
 
 Durante esse quase um ano trabalhando exclusivamente de casa fui customizando meu ambiente de trabalho deixando gradativamente mais confortável e agradável.
 
@@ -88,7 +88,7 @@ Durante esse quase um ano trabalhando exclusivamente de casa fui customizando me
 ```
 
 ### Organização
-![tool-trolley](./images/tool-trolley.JPG)
+![tool-trolley](./images/tool-trolley.jpeg)
 - HBM Mobile Tool Trolley https://bit.ly/3fFxUHW
 
 ### Decoracão
